@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author Lei Guo -- Jan 2021
+ * @author Lei Guo
  */
 public class Student {
     
