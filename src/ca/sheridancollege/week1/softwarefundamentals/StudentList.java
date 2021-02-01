@@ -15,6 +15,7 @@ public class StudentList {
         
         //1. Create an array of 5 students.
         Student [] sList= new Student[5];
+        Student [] partTime = new Student[3];
         
         //2. Add student names 
         for (int i=0;i<sList.length;i++)
