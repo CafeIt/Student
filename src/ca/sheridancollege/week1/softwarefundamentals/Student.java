@@ -8,6 +8,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author Lei Guo
+ * @version 1.0
  */
 public class Student {
     
